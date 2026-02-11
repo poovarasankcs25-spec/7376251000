@@ -1,0 +1,19 @@
+#head{
+    color: red;
+}
+.aniicon{
+    color: red;
+    display: inline;
+}
+.anif{
+    display: inline-block;
+    margin-left: 10px;
+}
+.aniimg{ 
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.animusic{
+ display: inline;
+}
+
